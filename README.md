@@ -15,6 +15,5 @@ This project uses **hand gestures** to control your computer's mouse — powered
 - PyAutoGUI
 
 ## 🚀 How to Run
-1. Clone the repo:
+1. Clone the repo:https://github.com/mritunjay9009/VIRTUAL-MOUSE.git
    ```bash
-   git clone https://github.com/mritunjay9009/gesture-mouse.git
