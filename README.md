@@ -17,4 +17,4 @@ This project uses **hand gestures** to control your computer's mouse — powered
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/gesture-mouse.git
+   git clone https://github.com/mritunjay9009/gesture-mouse.git
